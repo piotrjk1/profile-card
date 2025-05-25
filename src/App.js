@@ -38,7 +38,7 @@ function SkillList() {
       <Skill color="orange" skillName="JavaScript" />
       <Skill color="lightblue" skillName="HTML" />
       <Skill color="pink" skillName="CSS" />
-      <Skill color="red" skillName="React" />
+      <Skill color="orangered" skillName="React" />
       <Skill color="lightgreen" skillName="Node.js" />
       <Skill color="#11AAFF" skillName="PostgreSQL" />
       <Skill color="#119922" skillName="MongoDB" />
